@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Sulton03
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning html css java script github cass React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram +998880122055
 
 <!---
